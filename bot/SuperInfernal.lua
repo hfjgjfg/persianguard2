@@ -227,6 +227,7 @@ function create_config( )
     "anti_spam",
     "leaders",
     "set",
+    "info",
     "get",
     "lock_chat",
     "download_media",
@@ -290,8 +291,8 @@ tools for PERSIAN GUARD :
 > #sharesudo
 help all plugin soon :D ,"
 You Can Get Bot version by sending !version,"
-Master admin : @ArashInfernal ,"
-our channel : @INFERNALTEAMCH ,"
+Master admin : @persianguard2016 ,"
+our channel : ///////////// ,"
 
 
 

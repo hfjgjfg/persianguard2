@@ -221,6 +221,7 @@ function create_config( )
     "txt2img",
     "Info",
     "webshot",
+    "addplug",
     "google",
     "Maseage",
     "anti_spam",
@@ -233,26 +234,26 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {109722284,118682430,14072489},--Sudo users
+    sudo_users = {150575718},--Sudo users
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[ InfernalTG V 4.1 
-  Website : https://Arash-Infernal.epage.IR
+  Website : www.persianguard2016.blog.ir
   New Real Website soon :D
-  Official github : https://github.com/INFERNALTEAM/InfernalTG
-  Sudo admin : @ArashInfernal
+  Official github : 
+  Sudo admin : @persianguard2016
   You Can Get the Supports link in our github
-  antispam ; @INFERNALTG
+  antispam ; //////
   powered by:
-  INFERNALTEAM 
+  PERSIAN TEAM 
   our channels :
-  @INFERNANLTEAMCH [English]
-  @INFERNALTEAM [ English and per]
-  @INFERNALCHANNEL [persian]
+  @persianguard2015 [English]
+  @persianguard2015 [ English and per]
+  @persianguard2015 [persian]
 ]],
     help_text_realm = [[
-tools for InfernalTG :
+tools for PERSIAN GUARD :
 > #Add_bot
 > #Anti_Bot
 > #Auto_Leave
@@ -270,6 +271,7 @@ tools for InfernalTG :
 > #invite
 > #leaders
 > #leave_ban
+> #addplug
 > #plugins
 > #realmcommands
 > #service_entergroup
